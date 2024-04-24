@@ -26,7 +26,8 @@ const Navbar = () => {
 </div>
 </div>
 <div>
-  <FiDownload />
+  <button className='blbtn'><a >دانلود نشان<FiDownload /></a></button>
+  
 </div>
     </div>
   )

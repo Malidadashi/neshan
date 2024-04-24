@@ -1,0 +1,15 @@
+.post{
+    position: relative;
+}
+.miladtower{
+    width: 595px;
+    height: 350px;
+    position: relative;
+}
+.h1{
+
+  left: 0px;
+  top: 0px;
+  z-index:3;
+  position: absolute;
+}
