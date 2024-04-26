@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
       </div>
       <div>
-        <img src={awards} />
+        <img src={awards} alt="#"/>
         <p>بهترین مسیریابی ایران در سال 97،98،99 و 1400</p>
       </div>
       <div className="notice">

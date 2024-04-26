@@ -13,3 +13,11 @@
   z-index:3;
   position: absolute;
 }
+h2{
+  z-index: 1;
+  position: absolute;
+}
+
+.text1{
+  display: inline-block;
+}

@@ -5,7 +5,14 @@ const Body = () => {
   return (
     <div className="post">
       <img className="miladtower" src={miladtower} alt="asd" />
-      <h1 className="h1">با هم بهترین مسیر رو پیدا می کنیم</h1>
+     
+      <div className="a">
+        <h1>
+          <div className="text-1">با هم</div>
+          <div className="text-2">بهترین مسیر رو</div>
+          <div className="text3">پیدا می‌کنیم</div>
+        </h1>
+      </div>
     </div>
   );
 };
