@@ -1,4 +1,4 @@
-.post{
+/* .post{
     position: relative;
 }
 .miladtower{
@@ -20,4 +20,19 @@ h2{
 
 .text1{
   display: inline-block;
+} */
+
+.post{
+background-color: aqua;
+position: relative;
+}
+
+.post-miladtower{
+width: 100%;
+position: relative;
+z-index:1;
+}
+
+.post-text{
+position: relative;
 }
