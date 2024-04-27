@@ -1,25 +1,50 @@
-/* .graybox{
-    width: 100%;
-    height: 100%;
-}
-
-
-.input{
-    background-color: #808080;
-    height: 120%;    border-style: solid;
-    border-width: 1px 1px 1px 1px;
-    border-color: #1a1111;
-    border-radius: 50px 50px 50px 50px;
-    padding: 8px 14px 5px 14px;
-    padding: 36px 45px 0px 45px;
-direction: rtl;
-}
-
-.icons{
-    direction: ltr;
-} */
-
 .graybox{
-  background-color: cadetblue;
+    background-color: rgb(99, 95, 95);
+    display: flexbox;
+    color: #fff;
+    font-size: larger;
+    padding: 2rem;
+    margin: 5rem;
+    width: 80rem;
+ 
+}
+
+.graybox-h2{
+    direction: rtl;
+    display: flexbox;
     
+
+}
+.graybox-h2{
+margin: 1.5rem;
+}
+
+.graybox-input{
+direction: rtl;
+display: flex;
+width: -15rem;
+/* margin-left: -1.5rem;
+width: 22rem;
+height: 2rem;
+justify-content:left; */
+height: 2rem;
+justify-content: right;
+
+
+}
+.graybox-input  :first-child{
+    color: blue;
+    width: 25rem;
+    margin-left: -1.5rem;
+
+}
+
+.graybox-icons{
+    justify-content: center;
+
+}
+.graybox-button{
+
+justify-content: center;
+display: flexbox;
 }
