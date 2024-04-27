@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 import awards from "../../assets/awards.png";
 const Footer = () => {
   return (
-    <div>
+    <div className="footer">
       <div>
         <p>دانلود</p>
         <ul>

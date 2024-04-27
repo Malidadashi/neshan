@@ -5,8 +5,8 @@ import sign2 from "../../assets/sign2.png";
 import sign3 from "../../assets/sign3.png";
 const Button2 = () => {
   return (
-    <div className="bluecard">
-      <div className="">
+    <div className="maincard">
+      <div className="maincard-card1">
         <img src={sign1} alt="sign1" />
         <h3>با هم بهترین مسیر رو مسیر پیدا می کنیم</h3>
         <p>
@@ -15,7 +15,7 @@ const Button2 = () => {
         </p>
       </div>
 
-      <div>
+      <div className="maincard-card2">
         <img src={sign2} alt="sign2" />
         <h3>دیگه تو ترافیک جریمه نشو</h3>
         <p>
@@ -25,7 +25,7 @@ const Button2 = () => {
         </p>
       </div>
 
-      <div>
+      <div className="maincard-card3">
         <img src={sign3} alt="sign3" />
         <h3>هر جا و هر جور میخوای بری از نشان بپرس!</h3>
         <p>

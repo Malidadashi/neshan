@@ -100,9 +100,19 @@ ul li:hover {
 
 .download-btn {
   border-radius: 5px;
-  background-color: rgb(60, 60, 102);
+  background-color: rgb(111, 111, 235);
+  color: #fff;
+  width: 7rem;
+  height: 2rem;
+  font-weight: 500;
+  
 }
-.nav {
+.me:hover{
+  color: rgb(236, 24, 24);
+
+}
+.me:hover::before{
+	top: -2px;
 }
 
 .me {

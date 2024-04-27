@@ -46,8 +46,8 @@ const Navbar = () => {
           </ul>
           <button className="download-btn">
             <a className="me" href="#">
-              دانلود نشان
               <FiDownload />
+              دانلود نشان
             </a>
           </button>
         </div>

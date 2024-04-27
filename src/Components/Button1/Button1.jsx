@@ -6,7 +6,8 @@ const Button1 = () => {
   return (
     <div className="total">
       <img className="total-img" src={btn1} alt="#" />
-      <h1 className="total-h1">نشان چه کاری انجام میده؟</h1>
+      <div className="total-h1">
+      <h1 >نشان چه کاری انجام میده؟</h1>
       <p total-text>
         <p>
           نقشه و مسیریاب نشان» یک اپلیکیشن رایگان و کاربردی است که می‌توانید به
@@ -22,6 +23,8 @@ const Button1 = () => {
         دانلود نشان
         <TiDownload />
       </button>
+
+      </div>
     </div>
   );
 };

@@ -6,6 +6,7 @@ import { MdOutlineAtm } from "react-icons/md";
 import { FaHospitalSymbol } from "react-icons/fa";
 import { RiRestaurant2Fill } from "react-icons/ri";
 import { FaLessThan } from "react-icons/fa";
+
 const Post = () => {
   return (
     <div className="graybox">
@@ -26,16 +27,7 @@ const Post = () => {
             <FaLessThan />
           </button>
         </div>
-<div>
-    <div>
-<h4>توسعه دهندگان</h4>
-<p>ِبیشتر<FaLessThan /></p>
-</div>
-    <div>
-    <h4>ره کار های سازمانی</h4>
-<p>ِبیشتر<FaLessThan /></p>
-    </div>
-</div>
+
 
       </div>
     </div>
