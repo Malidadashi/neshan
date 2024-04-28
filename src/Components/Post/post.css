@@ -48,3 +48,19 @@ justify-content: right;
 justify-content: center;
 display: flexbox;
 }
+
+.graybox-icons{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 250%;
+    margin-right: 22rem;
+    margin-top: -2rem;
+}
+
+.graybox-button{
+    justify-items: center;
+    display: flex;
+    
+
+}

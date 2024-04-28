@@ -9,6 +9,20 @@ a{
 a:hover{
 color: gray;
 } */
-.footer{
-    background-color: thistle;
+.footer {
+  background-color: thistle;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  direction: rtl;
+
+}
+
+.footer ul{
+    list-style-type: none;
+}
+.notice{
+    display: center;
+    display: flex;
+
 }
