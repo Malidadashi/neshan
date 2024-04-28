@@ -1,5 +1,5 @@
 .graybox{
-    background-color: rgb(99, 95, 95);
+    /* background-color: rgb(99, 95, 95); */
     display: flexbox;
     color: #fff;
     font-size: larger;
@@ -33,7 +33,7 @@ justify-content: right;
 
 }
 .graybox-input  :first-child{
-    color: blue;
+    /* color: blue; */
     width: 25rem;
     margin-left: -1.5rem;
 

@@ -2,7 +2,7 @@
   border: 1px solid #fff;
   margin-left: 16rem;
   display: flex-box;
-  background-color: rgb(69, 238, 201);
+  /* background-color: rgb(69, 238, 201); */
   justify-content: center;
   justify-items: center;
 }
@@ -23,7 +23,7 @@
   margin-right: 4rem;
 }
 .maincard-card2 {
-  background-color: bisque;
+  /* background-color: bisque; */
   height: 15rem;
   margin-bottom: 2rem;
   padding-bottom: 12rem;
@@ -47,7 +47,7 @@
   height: 17rem;
   margin-bottom: 2rem;
   padding-bottom: 15rem;
-  background-color: rgb(207, 198, 188);
+  /* background-color: rgb(207, 198, 188); */
   justify-content: center;
   justify-items: center;
 }

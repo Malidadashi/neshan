@@ -10,7 +10,7 @@ a:hover{
 color: gray;
 } */
 .footer {
-  background-color: thistle;
+  /* background-color: thistle; */
   display: flex;
   align-items: center;
   text-align: center;
